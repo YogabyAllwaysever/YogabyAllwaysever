@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yoga Pradana Ismail
 ============================================================================================================================================
 
-Web Developer Studio
---------------------
+Web Developer
+-------------
 
 I'm a 14-year-old teenager, born in Jakarta, Indonesia in 2011, and currently living in Yogyakarta, Indonesia. I aspire to be a web developer and video editor. Currently, I am just learning about the web by using the help of AI (Google Gemini, ChatGPT, DeepSeek, etc.) to generate code.
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * 🖥️  See my portfolio at [Allwaysever Blogspot](http://allwaysever.blogspot.com/p/halaman-anggota-yoga.html)
-* ✉️  You can contact me at [allwaysever.info@gmail.com](mailto:allwaysever.info@gmail.com)
+* ✉️  You can contact me at [yogapradanaismail21@gmail.com](mailto:yogapradanaismail21@gmail.com)
 * 🚀  I'm currently working on [Allwaysever](http://allwaysever.blogspot.com/)
 * 🧠  I'm currently learning Web Development
 * 👥  I'm looking to collaborate on MirAI
