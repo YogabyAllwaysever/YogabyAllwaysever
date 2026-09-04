@@ -27,6 +27,7 @@ Currently I'm exploring **single page html web (SPA)** and love building cool st
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-5A3E2B?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-4F46E5?style=for-the-badge&logo=deepseek&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ---
@@ -49,7 +50,7 @@ Currently I'm exploring **single page html web (SPA)** and love building cool st
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [MirAI](https://github.com/Allwaysever/MirAI) | A lightweight AI chatbot using Gemini API | `HTML`, `CSS`, `JS` |
-| [Allwaysever Books](https://github.com/Allwaysever/Allwaysever-Books) | A small platform for a portfolio of books released by Alwaysever | `HTML`, `JS`, `CSS` |
+| [epubCreator.js](https://github.com/YogabyAllwaysever/epubCreator.js) | Node CLI App for create epub easier | `Node.js`, `JS` |
 
 ---
 
