@@ -1,8 +1,3 @@
-<!-- Optional banner / typing animation -->
-<p align="center">
-  <img src="images/YogabyAllwaysever.jpg" max-width="500px">
-</p>
-
 ## 👋 Hi, I'm Yoga Pradana Ismail!
 
 I'm a **Lightweight web developer at Alwaysever, CEO & Founder of Alwaysever, and 15 Yo Writer** passionate about **Writing & coding**.  
